@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password_hash": "hashed_password",
+      "public_key": "ssh-rsa AAAAB3Nza... user1@example.com"
+    },
+    {
+      "username": "user2",
+      "password_hash": "hashed_password",
+      "public_key": "ssh-rsa AAAAB3Nza... user2@example.com"
+    }
+  ]
+}
